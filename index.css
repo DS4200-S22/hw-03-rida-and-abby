@@ -12,3 +12,11 @@ html * {
   flex-wrap: wrap;
   justify-content: space-around;
 }
+
+.chart {
+  border: 3px solid green;
+}
+
+.change:hover {
+  color: pink;
+}
