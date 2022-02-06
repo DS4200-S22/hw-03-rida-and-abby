@@ -8,15 +8,22 @@ html * {
 
 .grid {
   display: flex;
-  flex-flow: row wrap;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 
 .chart {
-  border: 3px solid green;
+  border: 6px solid green;
 }
 
 .change:hover {
   color: pink;
+}
+
+p {
+  padding: 5px;
+}
+
+li {
+  list-style-type: none;
 }
