@@ -16,8 +16,8 @@ html * {
   border: 6px solid green;
 }
 
-.change:hover {
-  color: pink;
+.hover:hover {
+  fill: pink;
 }
 
 p {
