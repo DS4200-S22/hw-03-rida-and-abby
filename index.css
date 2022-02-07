@@ -16,7 +16,7 @@ html * {
   border: 6px solid green;
   padding: 5px;
   list-style-type: none;
-  width: 400px;
+  width: 300px;
 }
 
 .hover:hover {
