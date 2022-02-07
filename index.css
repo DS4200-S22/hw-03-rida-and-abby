@@ -15,7 +15,7 @@ html * {
 .chart {
   border: 6px solid green;
   list-style-type: none;
-  margin-left: 10px;
+  width: 400px;
 }
 
 .hover:hover {
@@ -24,8 +24,13 @@ html * {
 
 p {
   padding: 5px;
+  width: 100%;
 }
 
 ul {
   list-style-position: inside;
+}
+
+img {
+ width: 100%;
 }
